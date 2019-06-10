@@ -1,0 +1,90 @@
+.content {
+    margin: 10px 100px;
+    padding-bottom: 0.5rem;
+    
+}
+
+body {
+    background-color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 40px;
+    background-color: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+nav {
+    padding: 40px;
+    background-color: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+.mainSection {
+    position: relative;
+    padding: 40px 0px 0px 0px;
+    text-align: center;
+    background-color: #ebebeb;
+    color: #777;
+    width: 576px;
+    height: 265px;
+}
+
+.article {
+    padding: 20px;
+    text-align: center; 
+    margin: 26px 10px;
+    background-color: #777;
+    color: #ebebeb;
+    width: 516px;
+    height: 170px;
+}
+
+.aside {
+    position: absolute;
+    top: 246px;
+    right: 100px;
+    padding: 40px;
+    text-align: center; 
+    margin: 0px 100px;
+    background-color: #ebebeb;
+    color: #777;
+    width: 365px;
+    height: 225px;
+}
+
+.firstBox {
+    padding: 20px;
+    background-color: #ebebeb;
+    color: #777;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 18px 0px 0px 0px;
+}
+
+.secondBox {
+    padding: 20px;
+    background-color: #ebebeb;
+    color: #777;
+    font-size: 18px;
+    margin: 10px 0px;
+}
+footer {
+    padding: 40px;
+    background-color: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px 100px;
+}
